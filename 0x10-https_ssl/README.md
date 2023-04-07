@@ -24,3 +24,8 @@ SSL termination.
 * **3. No loophole in your website traffic**
   * [100-redirect_http_to_https](./100-redirect_http_to_https): HAproxy
   configuration file that automatically redirects HTTP traffic to HTTPS.
+
+
+
+  For better understanding visit: 
+  https://mustaphaaliyugaladima.medium.com/how-to-setup-ssl-https-on-haproxy-load-balancer-a47bee7bc146
